@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>Configure account Lockout threshold in group policy. (Azure)</h1>
+<h1>Configure account Lockout threshold in group policy. (Active Directory)</h1>
 defining settings that control when an account is locked after multiple failed login attempts, how long the account remains locked, and how the lockout counter is reset.
 
 
